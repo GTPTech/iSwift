@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Dynamic Contents: Index Path & Cell Reuse"; ObjectID = "2aw-Ip-t4t"; */
+"2aw-Ip-t4t.text" = "תוכן דינאמי: שימוש ברשומה דינאמית";
+
+/* Class = "UITableViewSection"; headerTitle = "Table Demos"; ObjectID = "3Um-Ur-aii"; */
+"3Um-Ur-aii.headerTitle" = "סוגי טבלאות";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Cg8-R3-3Ky"; */
+"Cg8-R3-3Ky.text" = "כותרת";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mIw-zR-lZg"; */
+"mIw-zR-lZg.text" = "כותרת";
+
+/* Class = "UILabel"; text = "Fruits: Reorderable Tables"; ObjectID = "mUt-RM-IaX"; */
+"mUt-RM-IaX.text" = "פירות: טבלה ניתנת לעריכה";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "zGq-kX-g3O"; */
+"zGq-kX-g3O.text" = "תת-כותרת";
+
